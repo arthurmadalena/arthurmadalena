@@ -1,9 +1,9 @@
-<h3 align="left">software developer</h3>
+<h3 align="left">software developer.</h3>
 
 
 ###
 
-<h3 align="left">Stack:</h3>
+<h3 align="left">stack:</h3>
 
 ###
 
