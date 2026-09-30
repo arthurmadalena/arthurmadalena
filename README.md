@@ -1,4 +1,4 @@
-<h3 align="left">Hi, my name is Arthur and I am a Java Backend Software Developer</h3>
+<h3 align="left">software developer</h3>
 
 
 ###
